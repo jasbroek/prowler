@@ -96,9 +96,7 @@ addHtmlHeader() {
         <table class="table compact stripe row-border ordering" id="findingsTable" data-order='[[ 5, "asc" ]]' data-page-length='100'>
           <thead class="thead-light">
             <tr>
-              <th style="align-content:center" scope="col">Status</th>
               <th scope="col">Result</th>
-              <th scope="col">AccountID</th>
               <th scope="col">Region</th>
               <th scope="col">Group</th>
               <th scope="col">CheckID</th>
